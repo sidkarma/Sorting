@@ -16,7 +16,7 @@ public class BubbleSort
 
 	  public static void main(String args[])
 	  {
-	    int[] arr = { 9,8,6,3,2,1,99 };
+	    int[] arr = {9,8,6,3,2,1,99};
 	    BubbleSort.bubbleSort(arr);
 	    
 	    System.out.println("Sorted Array is:");
